@@ -1,6 +1,6 @@
 [
     {
-        "url": ".clerk.suno.com",
+        "url": "https://suno.com",
         "cookies": [
             {
                 "index": 2,
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "url": ".suno.com",
+        "url": "https://suno.com",
         "cookies": [
             {
                 "index": 3,
