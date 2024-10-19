@@ -1,0 +1,26 @@
+{
+  "share_title": "Suno Music AI",
+"share_text": "",
+"share_link_url": "https://play.google.com/store/apps/details?id=com.sunoaimusic.aisongs.suno_musicgenerator",
+"task_link": "https://app.freefreespinner.com/?title=Suno%20Music%20AI&icon=https://play-lh.googleusercontent.com/uDEPwUHSkPbp7ArYj1JwJoZTAwJToQvGThbBWq-RyDtygxvXGdCG3a19OsbO2rET0w=w480-h960-rw&id=com.sunoaimusic.aisongs.suno_musicgenerator",
+"cookies":"__cf_bm=zziBN3AZd10Xo.bLad6jDFQKoervB7bz1XgFGvO35Tg-1729368681-1.0.1.1-JYry5ZpTYUz5bYBJWmsc5JTDxLHJ2FcFv9o56pVNpyncrxggKT2OGyWeFKv1cwGbOFqLfRxBaQi8re03kbE0_Q; _ga=GA1.1.982752653.1729368680; ajs_anonymous_id=0b0ded76-f3a9-405e-ae9f-05918b176e94; _cfuvid=RKIbicdAk8OmJRoEpFlc6JkMvmFU4kfxrXuUZ6yqSqs-1729368753165-0.0.1.1-604800000; __client=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImNsaWVudF8ybmZlaUFVR1FVdVRZVkdESmg5Y1VXTU5lR3oiLCJyb3RhdGluZ190b2tlbiI6IjA4Mjl0ZHYwaGphNmNmbWw2M243N2RrNHNhNGhwNThrcDNoZ3U1dmEifQ.Ae63PsagkiC2mMGMdM5DilXpaB3JfrLM5jSNi-QkLHjdHURX8SNFp9DfcRUvo2Xrs__aG4QB24avvPF8Y6DKyeof589ca66fytdbaPykbFOg1joKmj8lCSr0I0wj6kHpcIZ5qFM5u0xDoRAge3xWXoMt-GC45Xhffnp7sgWFqlPO74tinWCLcoYzUtw9GaTDiIbPqxT4w9CFUQrTkF92K2DUTce_BVaVkjGSRCyGPlHCcYCFXGEd3GDxLLLc7eGdRasi0twcF3ZliyN6VrC3fflLoX90t7MWjSV1EB1TiTi8Q6vGG-lXMEzbXLYuyimBtVjoBhWlwXEFIzsu646-Ew; __client_uat=1729368869; __client_uat_U9tcbTPE=1729368869; _ga_7B0KEDD7XP=GS1.1.1729368680.1.1.1729368869.0.0.0; mp_26ced217328f4737497bd6ba6641ca1c_mixpanel=%7B%22distinct_id%22%3A%20%2293e26fb4-d587-420c-bafa-a8545dd0a79f%22%2C%22%24device_id%22%3A%20%22192a667e4da7cc-00485b4c0b9129-1f525636-1aeaa0-192a667e4da7cc%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%2C%22%24user_id%22%3A%20%2293e26fb4-d587-420c-bafa-a8545dd0a79f%22%7D",
+"contact": "",
+"privacy_policy": "",
+"has_pub":false,
+"pub_image":"https://picsum.photos/200/300",
+"onesignal_key": "4bcbe1e6-117d-43b7-9637-5c3b00ade2c9",
+"pup_link": "",
+  "ads": {
+    "is_active":true,
+"admob_id": "ca-app-pub-2158097570008479~5541611142",
+"fan_id":"2621085158083017",
+"admob_interstitial":"ca-app-pub-3940256099942544/1033173712",
+"admob_rewarded":"ca-app-pub-3940256099942544/5224354917",
+"admob_native":"ca-app-pub-3940256099942544/2247696110",
+"fan_interstitial":"2621085158083017_2621087384749461",
+"fan_rewarded":"2621085158083017_2621088754749324",
+"fan_native":"2621085158083017_2621088508082682",
+"app_open_Ad":"ca-app-pub-3940256099942544/3419835294",
+"provider":"fan"
+}
+}
