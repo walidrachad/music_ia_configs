@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Get Pro Access",
+    "products": [
+      {
+        "productId": "dash_consumable_2k",
+        "name": "Basic Weekly Subscription",
+        "details": [
+          {
+            "description": "Access to introductory lessons",
+            "active": true
+          },
+          {
+            "description": "Basic language support for 7 days",
+            "active": true
+          },
+          {
+            "description": "Limited interactive content",
+            "active": true
+          }
+        ],
+        "price": "3.99",
+        "selected": true,
+        "coins": 100,
+        "id": "1"
+      },
+      {
+        "productId": "dash_consumable_2k",
+        "name": "Basic Monthly Subscription",
+        "details": [
+          {
+            "description": "All introductory lessons included",
+            "active": true
+          },
+          {
+            "description": "Monthly basic support",
+            "active": true
+          },
+          {
+            "description": "Standard customer service",
+            "active": true
+          }
+        ],
+        "price": "7.99",
+        "selected": true,
+        "coins": 100,
+        "id": "2"
+      },
+      {
+        "productId": "dash_consumable_2k",
+        "name": "Basic Yearly Subscription",
+        "details": [
+          {
+            "description": "Full access to introductory content",
+            "active": true
+          },
+          {
+            "description": "One-year basic support",
+            "active": true
+          },
+          {
+            "description": "Monthly webinars on basics",
+            "active": true
+          }
+        ],
+        "price": "49.99",
+        "selected": true,
+        "coins": 100,
+        "id": "3"
+      }
+    ]
+  }
+]
