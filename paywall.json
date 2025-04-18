@@ -3,7 +3,7 @@
     "name": "Get Pro Access",
     "products": [
       {
-        "productId": "dash_consumable_2k",
+        "productId": "dash_consumable_1k",
         "name": "Basic Weekly Subscription",
         "details": [
           {
@@ -47,7 +47,7 @@
         "id": "2"
       },
       {
-        "productId": "dash_consumable_2k",
+        "productId": "dash_consumable_3k",
         "name": "Basic Yearly Subscription",
         "details": [
           {
