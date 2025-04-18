@@ -19,7 +19,7 @@
             "active": true
           }
         ],
-        "price": "3.99",
+        "price": "5.99",
         "selected": true,
         "coins": 100,
         "id": "1"
@@ -41,7 +41,7 @@
             "active": true
           }
         ],
-        "price": "7.99",
+        "price": "23.99",
         "selected": true,
         "coins": 100,
         "id": "2"
@@ -63,7 +63,7 @@
             "active": true
           }
         ],
-        "price": "49.99",
+        "price": "240",
         "selected": true,
         "coins": 100,
         "id": "3"
