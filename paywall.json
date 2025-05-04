@@ -69,5 +69,32 @@
         "id": "3"
       }
     ]
+  },
+  {
+    "name": "Free Try",
+    "products": [
+      {
+        "productId": "0000",
+        "name": "Basic Yearly Subscription",
+        "details": [
+          {
+            "description": "Full access to introductory content",
+            "active": true
+          },
+          {
+            "description": "One-year basic support",
+            "active": true
+          },
+          {
+            "description": "Monthly webinars on basics",
+            "active": true
+          }
+        ],
+        "price": "240",
+        "selected": true,
+        "coins": 100,
+        "id": "3"
+      }
+    ]
   }
 ]
