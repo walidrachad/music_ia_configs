@@ -7,27 +7,27 @@
         "name": "Basic Weekly Subscription",
         "details": [
           {
-            "description": "Paraphraser	    20 uses/day, max 500 words",
+            "description": "Paraphraser    20 uses/day, max 500 words",
             "active": true
           },
           {
-            "description": "AI Detector	    20 uses/day",
+            "description": "AI Detector    20 uses/day",
             "active": true
           },
           {
-            "description": "Email Writer	  30 uses/day, short replies only",
+            "description": "Email Writer   30 uses/day, short replies only",
             "active": true
           },
           {
-            "description": "Summarizer	    30 uses/day to 500 words",
+            "description": "Summarizer     30 uses/day to 500 words",
             "active": true
           },
           {
-            "description": "Grammar Checker	50 uses/day",
+            "description": "Grammar Checker 50 uses/day",
             "active": true
           },
           {
-            "description": "Humanizer	      30 uses/day, max 500 words",
+            "description": "Humanizer       30 uses/day, max 500 words",
             "active": true
           }
         ],
@@ -41,27 +41,27 @@
         "name": "Basic Monthly Subscription",
         "details": [
           {
-            "description": "Paraphraser	    80 uses/day, max 500 words",
+            "description": "Paraphraser     80 uses/day, max 500 words",
             "active": true
           },
           {
-            "description": "AI Detector	    80 uses/day",
+            "description": "AI Detector     80 uses/day",
             "active": true
           },
           {
-            "description": "Email Writer	  80 uses/day, short replies only",
+            "description": "Email Writer    80 uses/day, short replies only",
             "active": true
           },
           {
-            "description": "Summarizer	    80 uses/day to 500 words",
+            "description": "Summarizer      80 uses/day to 500 words",
             "active": true
           },
           {
-            "description": "Grammar Checker	80 uses/day",
+            "description": "Grammar Checker 80 uses/day",
             "active": true
           },
           {
-            "description": "Humanizer	      80 uses/day, max 500 words",
+            "description": "Humanizer       80 uses/day, max 500 words",
             "active": true
           }
         ],
@@ -75,27 +75,27 @@
         "name": "Basic Yearly Subscription",
         "details": [
           {
-            "description": "Paraphraser	    960 uses/day, max 500 words",
+            "description": "Paraphraser     960 uses/day, max 500 words",
             "active": true
           },
           {
-            "description": "AI Detector	    960 uses/day",
+            "description": "AI Detector     960 uses/day",
             "active": true
           },
           {
-            "description": "Email Writer	  960 uses/day, short replies only",
+            "description": "Email Writer    960 uses/day, short replies only",
             "active": true
           },
           {
-            "description": "Summarizer	    960 uses/day to 500 words",
+            "description": "Summarizer      960 uses/day to 500 words",
             "active": true
           },
           {
-            "description": "Grammar Checker	960 uses/day",
+            "description": "Grammar Checker 960 uses/day",
             "active": true
           },
           {
-            "description": "Humanizer	      960 uses/day, max 500 words",
+            "description": "Humanizer       960 uses/day, max 500 words",
             "active": true
           }
         ],
@@ -114,27 +114,27 @@
         "name": "Basic Yearly Subscription",
         "details": [
           {
-            "description": "Paraphraser	    3 uses/day, max 140 words",
+            "description": "Paraphraser     3 uses/day, max 140 words",
             "active": true
           },
           {
-            "description": "AI Detector	    2 uses/day",
+            "description": "AI Detector     2 uses/day",
             "active": true
           },
           {
-            "description": "Email Writer	  3 uses/day, short replies only",
+            "description": "Email Writer    3 uses/day, short replies only",
             "active": true
           },
           {
-            "description": "Summarizer	    3 uses/day to 140 words",
+            "description": "Summarizer      3 uses/day to 140 words",
             "active": true
           },
           {
-            "description": "Grammar Checker	5 uses/day",
+            "description": "Grammar Checker 5 uses/day",
             "active": true
           },
           {
-            "description": "Humanizer	      3 uses/day, max 140 words",
+            "description": "Humanizer       3 uses/day, max 140 words",
             "active": true
           }
         ],
