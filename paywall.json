@@ -66,8 +66,8 @@
           }
         ],
         "price": "23.99",
-        "selected": true,
-        "coins": 100,
+        "selected": false,
+        "coins": 400,
         "id": "2"
       },
       {
@@ -100,7 +100,7 @@
           }
         ],
         "price": "240",
-        "selected": true,
+        "selected": false,
         "coins": 100,
         "id": "3"
       }
@@ -110,7 +110,7 @@
     "name": "Free Try",
     "products": [
       {
-        "productId": "0000",
+        "productId": "0",
         "name": "Basic Yearly Subscription",
         "details": [
           {
@@ -138,10 +138,10 @@
             "active": true
           }
         ],
-        "price": "240",
+        "price": "0",
         "selected": true,
-        "coins": 100,
-        "id": "3"
+        "coins": 0,
+        "id": "30"
       }
     ]
   }
