@@ -41,7 +41,7 @@
           {
             "description": "5 uses/day, max 140 words",
             "active": true
-          },
+          }
         ],
         "price": "0",
         "selected": true,
