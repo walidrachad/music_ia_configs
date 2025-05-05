@@ -5,33 +5,8 @@
       {
         "productId": "dash_consumable_1k",
         "name": "Basic Weekly Subscription",
-        "details": [
-          {
-            "description": "Paraphraser 20 uses/day, max 500 words",
-            "active": true
-          },
-          {
-            "description": "AI Detector 20 uses/day",
-            "active": true
-          },
-          {
-            "description": "Email Writer 30 uses/day, short replies only",
-            "active": true
-          },
-          {
-            "description": "Summarizer 30 uses/day to 500 words",
-            "active": true
-          },
-          {
-            "description": "Grammar Checker 50 uses/day",
-            "active": true
-          },
-          {
-            "description": "Humanizer 30 uses/day, max 500 words",
-            "active": true
-          }
-        ],
-        "price": "5.99",
+        "details": [],
+        "price": "5.99 $",
         "selected": true,
         "coins": 100,
         "id": "1"
@@ -39,33 +14,8 @@
       {
         "productId": "dash_consumable_2k",
         "name": "Basic Monthly Subscription",
-        "details": [
-          {
-            "description": "Paraphraser 80 uses/day, max 500 words",
-            "active": true
-          },
-          {
-            "description": "AI Detector 80 uses/day",
-            "active": true
-          },
-          {
-            "description": "Email Writer 80 uses/day, short replies only",
-            "active": true
-          },
-          {
-            "description": "Summarizer 80 uses/day to 500 words",
-            "active": true
-          },
-          {
-            "description": "Grammar Checker 80 uses/day",
-            "active": true
-          },
-          {
-            "description": "Humanizer 80 uses/day, max 500 words",
-            "active": true
-          }
-        ],
-        "price": "23.99",
+        "details": [],
+        "price": "23.99 $",
         "selected": false,
         "coins": 400,
         "id": "2"
@@ -73,33 +23,8 @@
       {
         "productId": "dash_consumable_3k",
         "name": "Basic Yearly Subscription",
-        "details": [
-          {
-            "description": "Paraphraser 960 uses/day, max 500 words",
-            "active": true
-          },
-          {
-            "description": "AI Detector 960 uses/day",
-            "active": true
-          },
-          {
-            "description": "Email Writer 960 uses/day, short replies only",
-            "active": true
-          },
-          {
-            "description": "Summarizer 960 uses/day to 500 words",
-            "active": true
-          },
-          {
-            "description": "Grammar Checker 960 uses/day",
-            "active": true
-          },
-          {
-            "description": "Humanizer 960 uses/day, max 500 words",
-            "active": true
-          }
-        ],
-        "price": "240",
+        "details": [],
+        "price": "240 $",
         "selected": false,
         "coins": 100,
         "id": "3"
@@ -114,29 +39,9 @@
         "name": "Basic Yearly Subscription",
         "details": [
           {
-            "description": "Paraphraser 3 uses/day, max 140 words",
+            "description": "5 uses/day, max 140 words",
             "active": true
           },
-          {
-            "description": "AI Detector 2 uses/day",
-            "active": true
-          },
-          {
-            "description": "Email Writer 3 uses/day, short replies only",
-            "active": true
-          },
-          {
-            "description": "Summarizer 3 uses/day to 140 words",
-            "active": true
-          },
-          {
-            "description": "Grammar Checker 5 uses/day",
-            "active": true
-          },
-          {
-            "description": "Humanizer 3 uses/day, max 140 words",
-            "active": true
-          }
         ],
         "price": "0",
         "selected": true,
