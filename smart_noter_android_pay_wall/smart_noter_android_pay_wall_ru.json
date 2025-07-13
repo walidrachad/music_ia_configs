@@ -1,1 +1,37 @@
 
+[
+  {
+    "name": "Получить доступ Pro",
+    "products": [
+      {
+        "productId": "pro_weekly_subscription",
+        "name": "Еженедельная подписка Pro",
+        "details": [
+          { "description": "Без рекламы", "active": true },
+          { "description": "Неограниченные кредиты в день", "active": true },
+          { "description": "Запись до 5 минут за аудио", "active": true },
+          { "description": "Все функции ИИ: перевод, генерация заголовков", "active": true }
+        ],
+        "price": "2.99 $",
+        "selected": true,
+        "coins": 0,
+        "id": "1"
+      },
+      {
+        "productId": "pro_monthly_subscription",
+        "name": "Ежемесячная подписка Pro",
+        "details": [
+          { "description": "Без рекламы", "active": true },
+          { "description": "Неограниченные кредиты в день", "active": true },
+          { "description": "Запись до 10 минут за аудио", "active": true },
+          { "description": "Все функции ИИ: перевод, генерация заголовков", "active": true },
+          { "description": "Ранний доступ к новым функциям", "active": true }
+        ],
+        "price": "7.99 $",
+        "selected": false,
+        "coins": 0,
+        "id": "2"
+      }
+    ]
+  }
+]
