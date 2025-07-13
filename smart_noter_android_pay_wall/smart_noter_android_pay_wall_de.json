@@ -1,1 +1,36 @@
-
+[
+  {
+    "name": "Pro-Zugang erhalten",
+    "products": [
+      {
+        "productId": "pro_weekly_subscription",
+        "name": "Wöchentliches Pro-Abonnement",
+        "details": [
+          { "description": "Keine Werbung", "active": true },
+          { "description": "Unbegrenzte Credits pro Tag", "active": true },
+          { "description": "Aufnahme bis zu 5 Minuten pro Audio", "active": true },
+          { "description": "Alle KI-Funktionen: Übersetzung, Titelgenerierung", "active": true }
+        ],
+        "price": "2.99 $",
+        "selected": true,
+        "coins": 0,
+        "id": "1"
+      },
+      {
+        "productId": "pro_monthly_subscription",
+        "name": "Monatliches Pro-Abonnement",
+        "details": [
+          { "description": "Keine Werbung", "active": true },
+          { "description": "Unbegrenzte Credits pro Tag", "active": true },
+          { "description": "Aufnahme bis zu 10 Minuten pro Audio", "active": true },
+          { "description": "Alle KI-Funktionen: Übersetzung, Titelgenerierung", "active": true },
+          { "description": "Früher Zugriff auf neue Funktionen", "active": true }
+        ],
+        "price": "7.99 $",
+        "selected": false,
+        "coins": 0,
+        "id": "2"
+      }
+    ]
+  }
+]
