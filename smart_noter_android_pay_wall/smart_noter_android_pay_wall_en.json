@@ -1,1 +1,65 @@
 
+
+[
+  {
+    "name": "Get Pro Access",
+    "products": [
+      {
+        "productId": "pro_weekly_subscription",
+        "name": "Pro Weekly Subscription",
+        "details": [
+          {
+            "description": "No ads",
+            "active": true
+          },
+          {
+            "description": "Unlimited credits per day",
+            "active": true
+          },
+          {
+            "description": "Record up to 5 minutes per audio",
+            "active": true
+          },
+          {
+            "description": "Full AI features: translate, title generate",
+            "active": true
+          }
+        ],
+        "price": "2.99 $",
+        "selected": true,
+        "coins": 0,
+        "id": "1"
+      },
+      {
+        "productId": "pro_monthly_subscription",
+        "name": "Pro Monthly Subscription",
+        "details": [
+          {
+            "description": "No ads",
+            "active": true
+          },
+          {
+            "description": "Unlimited credits per day",
+            "active": true
+          },
+          {
+            "description": "Record up to 10 minutes per audio",
+            "active": true
+          },
+          {
+            "description": "Full AI features: translate, title generate",
+            "active": true
+          },
+          {
+            "description": "Early access to new features",
+            "active": true
+          }
+        ],
+        "price": "7.99 $",
+        "selected": false,
+        "coins": 0,
+        "id": "2"
+      }
+    ]
+  }
+]
