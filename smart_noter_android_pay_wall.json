@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Get Pro Access",
+    "products": [
+      {
+        "productId": "dash_consumable_1k",
+        "name": "Basic Weekly Subscription",
+        "details": [],
+        "price": "5.99 $",
+        "selected": true,
+        "coins": 100,
+        "id": "1"
+      },
+      {
+        "productId": "dash_consumable_2k",
+        "name": "Basic Monthly Subscription",
+        "details": [],
+        "price": "23.99 $",
+        "selected": false,
+        "coins": 400,
+        "id": "2"
+      }
+    ]
+  },
+  {
+    "name": "Free Try",
+    "products": [
+      {
+        "productId": "0",
+        "name": "Basic Yearly Subscription",
+        "details": [
+          {
+            "description": "5 uses/day, max 140 words",
+            "active": true
+          }
+        ],
+        "price": "0",
+        "selected": true,
+        "coins": 0,
+        "id": "30"
+      }
+    ]
+  }
+]
