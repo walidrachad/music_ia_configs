@@ -1,28 +1,15 @@
-
 [
   {
-    "name": "Get Pro Access",
+    "name": "Obtenez l'accès Pro",
     "products": [
       {
         "productId": "pro_weekly_subscription",
-        "name": "Pro Weekly Subscription",
+        "name": "Abonnement Pro hebdomadaire",
         "details": [
-          {
-            "description": "No ads",
-            "active": true
-          },
-          {
-            "description": "Unlimited credits per day",
-            "active": true
-          },
-          {
-            "description": "Record up to 5 minutes per audio",
-            "active": true
-          },
-          {
-            "description": "Full AI features: translate, title generate",
-            "active": true
-          }
+          { "description": "Sans publicité", "active": true },
+          { "description": "Crédits illimités par jour", "active": true },
+          { "description": "Enregistrement jusqu'à 5 minutes par audio", "active": true },
+          { "description": "Toutes les fonctionnalités IA : traduction, génération de titre", "active": true }
         ],
         "price": "2.99 $",
         "selected": true,
@@ -31,28 +18,13 @@
       },
       {
         "productId": "pro_monthly_subscription",
-        "name": "Pro Monthly Subscription",
+        "name": "Abonnement Pro mensuel",
         "details": [
-          {
-            "description": "No ads",
-            "active": true
-          },
-          {
-            "description": "Unlimited credits per day",
-            "active": true
-          },
-          {
-            "description": "Record up to 10 minutes per audio",
-            "active": true
-          },
-          {
-            "description": "Full AI features: translate, title generate",
-            "active": true
-          },
-          {
-            "description": "Early access to new features",
-            "active": true
-          }
+          { "description": "Sans publicité", "active": true },
+          { "description": "Crédits illimités par jour", "active": true },
+          { "description": "Enregistrement jusqu'à 10 minutes par audio", "active": true },
+          { "description": "Toutes les fonctionnalités IA : traduction, génération de titre", "active": true },
+          { "description": "Accès anticipé aux nouvelles fonctionnalités", "active": true }
         ],
         "price": "7.99 $",
         "selected": false,
