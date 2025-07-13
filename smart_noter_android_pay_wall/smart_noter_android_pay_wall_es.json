@@ -1,1 +1,37 @@
 
+[
+  {
+    "name": "Obtener acceso Pro",
+    "products": [
+      {
+        "productId": "pro_weekly_subscription",
+        "name": "Suscripción Pro semanal",
+        "details": [
+          { "description": "Sin anuncios", "active": true },
+          { "description": "Créditos ilimitados por día", "active": true },
+          { "description": "Grabar hasta 5 minutos por audio", "active": true },
+          { "description": "Todas las funciones IA: traducción, generación de títulos", "active": true }
+        ],
+        "price": "2.99 $",
+        "selected": true,
+        "coins": 0,
+        "id": "1"
+      },
+      {
+        "productId": "pro_monthly_subscription",
+        "name": "Suscripción Pro mensual",
+        "details": [
+          { "description": "Sin anuncios", "active": true },
+          { "description": "Créditos ilimitados por día", "active": true },
+          { "description": "Grabar hasta 10 minutos por audio", "active": true },
+          { "description": "Todas las funciones IA: traducción, generación de títulos", "active": true },
+          { "description": "Acceso anticipado a nuevas funciones", "active": true }
+        ],
+        "price": "7.99 $",
+        "selected": false,
+        "coins": 0,
+        "id": "2"
+      }
+    ]
+  }
+]
