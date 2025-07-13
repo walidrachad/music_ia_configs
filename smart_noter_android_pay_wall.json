@@ -19,25 +19,15 @@
         "selected": false,
         "coins": 400,
         "id": "2"
-      }
-    ]
-  },
-  {
-    "name": "Free Try",
-    "products": [
+      },
       {
-        "productId": "0",
-        "name": "Basic Yearly Subscription",
-        "details": [
-          {
-            "description": "5 uses/day, max 140 words",
-            "active": true
-          }
-        ],
-        "price": "0",
-        "selected": true,
-        "coins": 0,
-        "id": "30"
+        "productId": "dash_consumable_2k",
+        "name": "Basic Monthly Subscription",
+        "details": [],
+        "price": "23.99 $",
+        "selected": false,
+        "coins": 400,
+        "id": "2"
       }
     ]
   }
