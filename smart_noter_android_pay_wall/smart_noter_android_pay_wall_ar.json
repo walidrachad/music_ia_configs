@@ -1,1 +1,36 @@
-
+[
+  {
+    "name": "احصل على الوصول الاحترافي",
+    "products": [
+      {
+        "productId": "pro_weekly_subscription",
+        "name": "الاشتراك الأسبوعي الاحترافي",
+        "details": [
+          { "description": "بدون إعلانات", "active": true },
+          { "description": "عدد غير محدود من الاعتمادات يوميًا", "active": true },
+          { "description": "التسجيل حتى 5 دقائق لكل ملف صوتي", "active": true },
+          { "description": "كافة ميزات الذكاء الاصطناعي: الترجمة، توليد العنوان", "active": true }
+        ],
+        "price": "2.99 $",
+        "selected": true,
+        "coins": 0,
+        "id": "1"
+      },
+      {
+        "productId": "pro_monthly_subscription",
+        "name": "الاشتراك الشهري الاحترافي",
+        "details": [
+          { "description": "بدون إعلانات", "active": true },
+          { "description": "عدد غير محدود من الاعتمادات يوميًا", "active": true },
+          { "description": "التسجيل حتى 10 دقائق لكل ملف صوتي", "active": true },
+          { "description": "كافة ميزات الذكاء الاصطناعي: الترجمة، توليد العنوان", "active": true },
+          { "description": "الوصول المبكر للميزات الجديدة", "active": true }
+        ],
+        "price": "7.99 $",
+        "selected": false,
+        "coins": 0,
+        "id": "2"
+      }
+    ]
+  }
+]
