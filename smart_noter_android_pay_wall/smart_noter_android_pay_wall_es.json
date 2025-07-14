@@ -14,7 +14,7 @@
         ],
         "price": "2.99 $",
         "selected": true,
-        "coins": 0,
+        "maxAudio": 2,
         "id": "1"
       },
       {
@@ -29,7 +29,7 @@
         ],
         "price": "7.99 $",
         "selected": false,
-        "coins": 0,
+        "maxAudio": 5,
         "id": "2"
       }
     ]
