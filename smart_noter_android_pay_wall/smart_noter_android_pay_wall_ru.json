@@ -9,7 +9,7 @@
         "details": [
           { "description": "Без рекламы", "active": true },
           { "description": "Неограниченные кредиты в день", "active": true },
-          { "description": "Запись до 5 минут за аудио", "active": true },
+          { "description": "Запись до25 минут за аудио", "active": true },
           { "description": "Все функции ИИ: перевод, генерация заголовков", "active": true }
         ],
         "price": "2.99 $",
@@ -23,7 +23,7 @@
         "details": [
           { "description": "Без рекламы", "active": true },
           { "description": "Неограниченные кредиты в день", "active": true },
-          { "description": "Запись до 10 минут за аудио", "active": true },
+          { "description": "Запись до 5 минут за аудио", "active": true },
           { "description": "Все функции ИИ: перевод, генерация заголовков", "active": true },
           { "description": "Ранний доступ к новым функциям", "active": true }
         ],
