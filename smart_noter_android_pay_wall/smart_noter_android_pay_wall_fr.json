@@ -8,7 +8,7 @@
         "details": [
           { "description": "Sans publicité", "active": true },
           { "description": "Crédits illimités par jour", "active": true },
-          { "description": "Enregistrement jusqu'à 5 minutes par audio", "active": true },
+          { "description": "Enregistrement jusqu'à 2 minutes par audio", "active": true },
           { "description": "Toutes les fonctionnalités IA : traduction, génération de titre", "active": true }
         ],
         "price": "2.99 $",
@@ -22,7 +22,7 @@
         "details": [
           { "description": "Sans publicité", "active": true },
           { "description": "Crédits illimités par jour", "active": true },
-          { "description": "Enregistrement jusqu'à 10 minutes par audio", "active": true },
+          { "description": "Enregistrement jusqu'à 5 minutes par audio", "active": true },
           { "description": "Toutes les fonctionnalités IA : traduction, génération de titre", "active": true },
           { "description": "Accès anticipé aux nouvelles fonctionnalités", "active": true }
         ],
