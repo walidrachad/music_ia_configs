@@ -17,7 +17,7 @@
             "active": true
           },
           {
-            "description": "Record up to 5 minutes per audio",
+            "description": "Record up to 2 minutes per audio",
             "active": true
           },
           {
@@ -43,7 +43,7 @@
             "active": true
           },
           {
-            "description": "Record up to 10 minutes per audio",
+            "description": "Record up to 5 minutes per audio",
             "active": true
           },
           {
