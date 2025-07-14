@@ -8,7 +8,7 @@
         "details": [
           { "description": "Keine Werbung", "active": true },
           { "description": "Unbegrenzte Credits pro Tag", "active": true },
-          { "description": "Aufnahme bis zu 5 Minuten pro Audio", "active": true },
+          { "description": "Aufnahme bis zu 2 Minuten pro Audio", "active": true },
           { "description": "Alle KI-Funktionen: Übersetzung, Titelgenerierung", "active": true }
         ],
         "price": "2.99 $",
@@ -22,7 +22,7 @@
         "details": [
           { "description": "Keine Werbung", "active": true },
           { "description": "Unbegrenzte Credits pro Tag", "active": true },
-          { "description": "Aufnahme bis zu 10 Minuten pro Audio", "active": true },
+          { "description": "Aufnahme bis zu 5 Minuten pro Audio", "active": true },
           { "description": "Alle KI-Funktionen: Übersetzung, Titelgenerierung", "active": true },
           { "description": "Früher Zugriff auf neue Funktionen", "active": true }
         ],
